@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaChat", "OllamaChat\OllamaChat.csproj", "{93FA6524-51D9-443E-BC5F-47269F372FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaLibraryTests", "OllamaLibraryTests\OllamaLibraryTests.csproj", "{7C0E5AF5-91C7-4E1D-805A-DFFB5E10BD2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaLibrary", "OllamaLibrary\OllamaLibrary.csproj", "{1986E949-D9A8-40AD-B5C6-2E0D3F8B1688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FA6524-51D9-443E-BC5F-47269F372FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FA6524-51D9-443E-BC5F-47269F372FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FA6524-51D9-443E-BC5F-47269F372FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FA6524-51D9-443E-BC5F-47269F372FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0E5AF5-91C7-4E1D-805A-DFFB5E10BD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0E5AF5-91C7-4E1D-805A-DFFB5E10BD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0E5AF5-91C7-4E1D-805A-DFFB5E10BD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0E5AF5-91C7-4E1D-805A-DFFB5E10BD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1986E949-D9A8-40AD-B5C6-2E0D3F8B1688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1986E949-D9A8-40AD-B5C6-2E0D3F8B1688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1986E949-D9A8-40AD-B5C6-2E0D3F8B1688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1986E949-D9A8-40AD-B5C6-2E0D3F8B1688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
